@@ -1,19 +1,14 @@
 <div align="center">
 
-<!-- Profile Banner -->
-<img src="shn.jpg" width="100%" alt="Ihsan's Banner" style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);" />
-
-<br/>
-
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=🤖+WhatsApp+Bot+Developer;⚡+NodeJS+%26+Automation+Enthusiast;🌐+Fullstack+Web+Developer;🔧+Building+Cool+Things+Daily" alt="Typing SVG" />
 </a>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IHx-cmyk&theme=tokyonight&column=7&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+<br/><br/>
+
+<!-- Profile Banner -->
+<img src="shn.jpg" width="100%" alt="Ihsan's Banner" style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);" />
 
 </div>
 
