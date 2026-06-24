@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Local database storing your private notes
+server/db.json
+
+# Vite production build output
+client/dist/
+
+# Local environment files
+.env
+.env.local
+
+# OS system files
+.DS_Store
+Thumbs.db
