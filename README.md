@@ -1,124 +1,118 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ihsannn&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Bot%20Engineer&descSize=18&descAlignY=58&descColor=a78bfa"/>
+<!-- Profile Banner -->
+<img src="shn.jpg" width="100%" alt="Ihsan's Banner" style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=🤖+WhatsApp+Bot+Developer;⚡+NodeJS+%26+Automation+Enthusiast;🌐+Fullstack+Web+Developer;🔧+Building+Cool+Things+Daily" alt="Typing SVG" />
+<br/>
+
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=🤖+WhatsApp+Bot+Developer;⚡+NodeJS+%26+Automation+Enthusiast;🌐+Fullstack+Web+Developer;🔧+Building+Cool+Things+Daily" alt="Typing SVG" />
+</a>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IHx-cmyk&theme=tokyonight&column=7&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 </div>
 
 ---
 
-## 👾 About Me
+### ⚡ About Me
 
-```js
-const ihsannn = {
-  name     : "Ihsannn",
-  role     : "Fullstack Developer & Bot Engineer",
-  location : "Indonesia 🇮🇩",
-  focus    : ["WhatsApp Bot", "Web Projects", "Automation"],
-  learning : ["React", "TypeScript", "API Development"],
-  contact  : {
-    telegram  : "@Shannyiee",
-    instagram : "@abcde_2803"
-  },
-  funFact  : "I automate everything I do more than twice 🤖"
+```typescript
+interface Developer {
+  name: string;
+  alias: string;
+  location: string;
+  passion: string[];
+  tools: string[];
+  funFact: string;
+}
+
+const devInfo: Developer = {
+  name: "Ihsan",
+  alias: "IHx-cmyk",
+  location: "Indonesia 🇮🇩",
+  passion: ["WhatsApp Bots", "Automation Scripts", "Web Engineering"],
+  tools: ["Node.js", "TypeScript", "React", "Linux"],
+  funFact: "I automate tasks that take more than 2 minutes of my time 🤖"
 };
 ```
 
+*   🔭 **Current Project:** Crafting scalable, resilient WhatsApp bot infrastructures.
+*   🌱 **Currently Learning:** Mastering React Server Components and TypeScript design patterns.
+*   💬 **Ask Me About:** Node.js backend logic, API integration, session storage, and automation.
+
 ---
 
-## 🧰 Tech Stack
+### ⚙️ Core Specializations
+
+*   🤖 **WhatsApp Bot Engineering:** Multi-device bot systems, automated conversational handlers, webhook integrations, and WhatsApp API optimization.
+*   ⚡ **Backend Automation:** Scraping dynamic websites, building clean API wrappers, cron jobs scheduling, and automated server workflows.
+*   🌐 **Fullstack Development:** Building fast, responsive frontend layouts using React and Tailwind CSS, backed by robust Node.js/Express APIs.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" /> |
+| **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=nodejs,react" alt="Frameworks & Runtimes" /> |
+| **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,linux,android" alt="Tools & OS" /> |
+
+---
+
+### 📊 GitHub Dashboard
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,html,css,git,linux,android&theme=dark&perline=9"/>
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" align="center">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=IHx-cmyk&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&hide_border=true&include_all_commits=true&count_private=true" />
+      </td>
+      <td valign="top" align="center">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHx-cmyk&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IHx-cmyk&theme=dark&background=0d1117&currStreakNum=a78bfa&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakLabel=a78bfa&fire=a78bfa&ring=a78bfa&hide_border=true" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IHx-cmyk&theme=tokyo-night&bg_color=0d1117&hide_border=true&radius=12" width="100%" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 🤝 Connect with Me
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IHx-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<a href="https://t.me/Shannyiee" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHx-cmyk&layout=compact&theme=tokyonight&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IHx-cmyk&theme=tokyonight&border_radius=12"/>
+<a href="https://instagram.com/abcde_2803" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+### 💬 Quote of Life
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IHx-cmyk&theme=tokyo-night&hide_border=false&radius=12"/>
-
-</div>
+> *"Ajari hatimu untuk menerima semua kekecewaan, bahkan dari orang yang kau cintai dan tetaplah jadi orang yang setia."*
+> — **R.M Imam Koesoepangat**
 
 ---
 
-## 💡 Life Logic
-
-```js
-function amIHandsome(wallet) {
-  if (wallet >= 1_000_000_000) {
-    return "✨ Otomatis ganteng, tampan, dan memesona";
-  } else {
-    return "😔 Ya enggak ganteng lah...";
-  }
-}
-
-// Realita hidup yang menyakitkan
-console.log(amIHandsome(mySaldo));
-```
-
----
-
-<!-- 2D Cute Animation Section -->
 <div align="center">
-<br/>
-
-<img src="https://media.giphy.com/media/l3vR1pBCRBMYoEDfy/giphy.gif" width="110" alt="2d cute animation"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/26ufcYAkp8e6bHAPI/giphy.gif" width="110" alt="2d cute animation"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/l3vR1pBCRBMYoEDfy/giphy.gif" width="110" alt="2d cute animation"/>
-
-<br/><br/>
-
-</div>
-
-<!-- Quote Section -->
-<div align="center">
-
----
-
-### 🌙 *" Ajari hatimu untuk menerima semua kekecewaan,bahkan dari orang yang kau cintai dan tetaplah jadi orang yang setia. "*
-
-<br/>
-
-*`— R.M Imam Koesoepangat.`*
-
----
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=IHx-cmyk&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
+  <img src="https://komarev.com/ghpvc/?username=IHx-cmyk&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge" />
 </div>
