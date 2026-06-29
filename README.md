@@ -28,7 +28,7 @@ interface Developer {
 
 const devInfo: Developer = {
   name: "Ihsan",
-  alias: "IHx-cmyk",
+  alias: "Shannyiee",
   location: "Indonesia 🇮🇩",
   passion: ["WhatsApp Bots", "Automation Scripts", "Web Engineering"],
   tools: ["Node.js", "TypeScript", "React", "Linux"],
@@ -66,21 +66,21 @@ const devInfo: Developer = {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top" align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=IHx-cmyk&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&hide_border=true&include_all_commits=true&count_private=true" />
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=ihsannyy&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&hide_border=true&include_all_commits=true&count_private=true" />
       </td>
       <td valign="top" align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHx-cmyk&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&hide_border=true" />
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsannyy&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&hide_border=true" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IHx-cmyk&theme=dark&background=0d1117&currStreakNum=a78bfa&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakLabel=a78bfa&fire=a78bfa&ring=a78bfa&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsannyy&theme=dark&background=0d1117&currStreakNum=a78bfa&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakLabel=a78bfa&fire=a78bfa&ring=a78bfa&hide_border=true" />
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IHx-cmyk&theme=tokyo-night&bg_color=0d1117&hide_border=true&radius=12" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsannyy&theme=tokyo-night&bg_color=0d1117&hide_border=true&radius=12" width="100%" />
 </div>
 
 ---
@@ -109,5 +109,5 @@ const devInfo: Developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IHx-cmyk&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ihsannyy&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge" />
 </div>
