@@ -63,25 +63,24 @@ const devInfo: Developer = {
 ### 📊 GitHub Dashboard
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=ihsannyy&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&hide_border=true&include_all_commits=true&count_private=true" />
-      </td>
-      <td valign="top" align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsannyy&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <!-- Stats & Languages Row -->
+  <p align="center">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ihsannyy&show_icons=true&bg_color=35,0d1117,1b1437&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&hide_border=true&include_all_commits=true&count_private=true" alt="Ihsan's GitHub Stats" />
+    &nbsp;&nbsp;
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsannyy&layout=compact&bg_color=35,0d1117,1b1437&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&hide_border=true" alt="Ihsan's Top Languages" />
+  </p>
   
-  <br/>
+  <!-- Streak Stats Row -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=ihsannyy&background=35,0d1117,1b1437&fire=a78bfa&ring=a78bfa&currStreakNum=a78bfa&currStreakLabel=e2e8f0&sideNums=e2e8f0&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub Streak Stats" />
+  </p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsannyy&theme=dark&background=0d1117&currStreakNum=a78bfa&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakLabel=a78bfa&fire=a78bfa&ring=a78bfa&hide_border=true" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsannyy&theme=tokyo-night&bg_color=0d1117&hide_border=true&radius=12" width="100%" />
+  <!-- Activity Graph Row -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsannyy&bg_color=0d1117&color=e2e8f0&line=a78bfa&point=a78bfa&area=true&area_color=1b1437&title_color=a78bfa&hide_border=true&radius=12" width="100%" alt="GitHub Activity Graph" />
+  </p>
 </div>
+
 
 ---
 
