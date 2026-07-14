@@ -54,7 +54,7 @@ const devInfo: Developer = {
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,html,css,go" alt="Languages" /> |
 | **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=nodejs,react" alt="Frameworks & Runtimes" /> |
 | **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,linux,android" alt="Tools & OS" /> |
 
@@ -65,9 +65,9 @@ const devInfo: Developer = {
 <div align="center">
   <!-- Stats & Languages Row -->
   <p align="center">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ihsannyy&show_icons=true&bg_color=35,0d1117,1b1437&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&hide_border=true&include_all_commits=true&count_private=true" alt="Ihsan's GitHub Stats" />
+    <img height="195px" src="https://github-readme-stats.shion.dev/api?username=ihsannyy&show_icons=true&bg_color=35,0d1117,1b1437&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&hide_border=true&include_all_commits=true&count_private=true" alt="Ihsan's GitHub Stats" />
     &nbsp;&nbsp;
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsannyy&layout=compact&bg_color=35,0d1117,1b1437&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&hide_border=true" alt="Ihsan's Top Languages" />
+    <img height="195px" src="https://github-readme-stats.shion.dev/api/top-langs?username=ihsannyy&layout=compact&bg_color=35,0d1117,1b1437&title_color=a78bfa&text_color=e2e8f0&icon_color=a78bfa&hide_border=true" alt="Ihsan's Top Languages" />
   </p>
   
   <!-- Streak Stats Row -->
