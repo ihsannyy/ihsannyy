@@ -54,7 +54,7 @@ const devInfo: Developer = {
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,html,css,go" alt="Languages" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,go" alt="Languages" /> |
 | **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=nodejs,react" alt="Frameworks & Runtimes" /> |
 | **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,linux,android" alt="Tools & OS" /> |
 
