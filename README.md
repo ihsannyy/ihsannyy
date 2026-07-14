@@ -55,7 +55,7 @@ const devInfo: Developer = {
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,go" alt="Languages" /> |
-| **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=nodejs,react" alt="Frameworks & Runtimes" /> |
+| **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=nodejs,react" alt="Frameworks & Runtimes" /> &nbsp;&nbsp; <a href="https://github.com/ihsannyy/kilat" target="_blank"><img src="https://img.shields.io/badge/Kilat-JS_Runtime-a78bfa?style=for-the-badge&logo=go&logoColor=white" height="40" alt="Kilat JS Runtime" /></a> |
 | **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,linux,android" alt="Tools & OS" /> |
 
 ---
